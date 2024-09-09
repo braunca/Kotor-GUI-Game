@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GUI
+comment0.text=\r\n\ allows\ the\ game\ to\ be\ created\ with\ buttons\ and\ text\r\n\ @author\ Casey\ Braun\r\n\ @version\ 4/18/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ Method\r\n
+comment2.params=
+comment2.target=GUI()
+comment2.text=\r\n\ constructor\ installs\ all\ of\ the\ GUI\ components\r\n
+comment3.params=
+comment3.target=void\ blocked()
+comment3.text=\r\n\ @param\ blocks\ directions\ and\ if\ game\ is\ won\ all\ buttons\ become\ disabled\r\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\r\n\ This\ method\ is\ called\ when\ any\ button\ is\ clicked\r\n\ @param\ e\ the\ event\ that\ was\ clicked\r\n
+numComments=5
