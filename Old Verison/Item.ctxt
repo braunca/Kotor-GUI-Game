@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=n\ d\ w\ e
+comment0.target=Item(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ getDesc()
+comment3.params=
+comment3.target=int\ getWeight()
+comment4.params=
+comment4.target=boolean\ getEdible()
+comment5.params=n
+comment5.target=void\ setName(java.lang.String)
+comment6.params=ln
+comment6.target=void\ setDesc(java.lang.String)
+comment7.params=w
+comment7.target=void\ setWeight(int)
+comment8.params=e
+comment8.target=void\ setEdible(boolean)
+comment9.params=
+comment9.target=boolean\ isEdible()
+numComments=10

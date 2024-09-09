@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\r\n\ Main\ Method\r\n\r\n
+comment1.params=
+comment1.target=GUI()
+comment1.text=\r\n\r\n\ constructor\ installs\ all\ of\ the\ GUI\ components\r\n\r\n
+comment2.params=
+comment2.target=void\ blocked()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\r\n\ This\ method\ is\ called\ when\ any\ button\ is\ clicked.\ \ The\ proper\r\n\r\n\ internal\ method\ is\ called\ as\ needed.\r\n\r\n\ \r\n\r\n\ @param\ e\ the\ event\ that\ was\ fired\r\n\r\n
+comment4.params=numStr\ label
+comment4.target=boolean\ checkValidInteger(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\r\n\ Check\ if\ the\ String\ contains\ a\ valid\ integer.\ \ Display\r\n\r\n\ an\ appropriate\ warning\ if\ it\ is\ not\ valid.\r\n\r\n\ @param\ numStr\ -\ the\ String\ to\ be\ checked\r\n\r\n\ @param\ label\ -\ the\ textfield\ name\ that\ contains\ the\ String\r\n\r\n\ @return\ true\ if\ valid\r\n\r\n
+numComments=5
